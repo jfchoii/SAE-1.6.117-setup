@@ -14,7 +14,7 @@ Upon completing the "Using Mod Organizer" section and installing Skyrim Together
 ### Additional mods
 Enhance gameplay, quality of life, and character creation.\
 Always check the prerequisites when installing mods, or they will not work.\
-I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely something may break in the game.
+I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely something may break in the game. Graphics mods without plugins will generally work fine. [mod compatibility report list](https://github.com/tiltedphoques/Mod-Compatibility/issues?page=2&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 1. [SKSE64](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files) - Script extender, necessary for many mods. See installation instructions on mod page.
 2. [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 3. [Racemenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
