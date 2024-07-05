@@ -18,12 +18,13 @@ I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely
 1. [SKSE64](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files) - Script extender, necessary for many mods. See installation instructions on mod page.
 2. [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 3. [Racemenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
-4. [KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
+4. [KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817) and [Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/16582?tab=files) for better hair textures.
 5. TESTING: Alternate Start: [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) \
    (Replaces [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro, prerequisite is USSEP which requires the Creation Club mods, so we didn't go with this. USSEP older version would be required; I will test this.)
-7. Untested, don't install yet: [BEASTHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
+7. Untested, don't install yet. might work but we will need to be using the exact same version. [BEASTHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480) beast race character creation and NPC replacer and additions. May be possible to install and just disable the plugin for the textures only. 
 8. Skin mods: Personally, I use snd greatly prefer [Skysight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/6580) for male, [Mature Skin 2](https://www.nexusmods.com/skyrimspecialedition/mods/26017?tab=description) for female. (Actually I overwrite it with skin textures from [Real Girls CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/75065), but this texture is not compatible with unmodded bodies.) Choose vanilla options.\
    Tempered Skin for [male](https://www.nexusmods.com/skyrimspecialedition/mods/7902) and [female (NSFW)](https://www.nexusmods.com/skyrimspecialedition/mods/8505) characters is also a good choice for wide compatibility. Select Vanilla option.
+   Supposedly body replacers HIMBO and CBBE work, but that can wait. maybe SoS works too lol.
 10. UNTESTED, DON'T INSTALL: [Latest ENB binaries](http://enbdev.com/mod_tesskyrimse_v0502.htm) (scroll down to download) and [ENB]() if your PC can handle it. 
 Notes: 
 - As long as there is no plugin, texture and mesh mods might work fine. In the folder of the mod, there should be no .esp or .esl file. Feel free to install these, hopefully they will work.
