@@ -16,7 +16,7 @@ Always check the prerequisites when installing mods, or they will not work.
 2. [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 3. [Racemenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
 4. [KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
-5. [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro
+5. [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro, prerequisite is USSEP
 6. Untested, don't install yet: [BEASTHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 7. Skin mods: Tempered Skin for [male](https://www.nexusmods.com/skyrimspecialedition/mods/7902) and [female (NSFW)](https://www.nexusmods.com/skyrimspecialedition/mods/8505) characters is a good choice for wide compatibility. Select Vanilla option.
    Personally, I use [Skysight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/6580) for men. For women, I use [Mature Skin 2](https://www.nexusmods.com/skyrimspecialedition/mods/26017?tab=description) (Actually I overwrite it with skin textures from [Real Girls CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/75065). Choose vanilla options.
