@@ -48,7 +48,7 @@ Can download these but don't enable them in MO2.[Mod compatibility report list](
 After this works, we can see if we can get other mods in this section running.
 
 1. [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/17230](https://www.nexusmods.com/skyrimspecialedition/mods/24791?tab=description)) - [Comments](https://github.com/tiltedphoques/Mod-Compatibility/issues/167)
-2. [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/17230](https://www.nexusmods.com/skyrimspecialedition/mods/21954?tab=description) - [Comments](https://github.com/tiltedphoques/Mod-Compatibility/issues/168) - Depends on Cathedral Weathers
+2. [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954?tab=description) - [Comments](https://github.com/tiltedphoques/Mod-Compatibility/issues/168) - Depends on Cathedral Weathers
 3. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) - Hides HUD :) Apparently no issues?
 4. [The Eyes of Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/16185) - Maybe can install this, but disable the plugin... 
 5. [Beast Horns Hair Brows](https://www.nexusmods.com/skyrimspecialedition/mods/38480) - Beast race character creation and NPC replacer and additions. Needs USSEP. [Additional instructions must be followed. (Comments)](https://github.com/tiltedphoques/Mod-Compatibility/issues/26)
