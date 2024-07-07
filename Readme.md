@@ -19,7 +19,7 @@ I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely
 2. [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 3. [Racemenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
 > **_NOTE:_** As with most body/face changes, make sure you utilize "showracemenu" and adjust your character to your liking right before joining the server, then save your game. This will ensure you look exactly how you want and going into the server doesn't change you. If there any issues regarding your character hair changing, make sure you are using "showracemenu" once getting past Helgen or finish alternate start, save your character, THEN be the first to join the connecting server. Others must do the same. If you try to make said changes while on a live server, it will not reflect correctly. Edit: This is intentional. ST does not update racemenu changes while live. (also for KS Hairdos) [Source:](https://github.com/tiltedphoques/Mod-Compatibility/issues/34)
-4. [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863), [Vanilla Hair - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/45147) (As these two are pluginless, they can be enabled/disabled easily)
+4. [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863), [Vanilla Hair - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/45147), [Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067) (As these three are pluginless, they can be enabled/disabled easily)
 5. Additional hairs: [KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817) and [Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/16582?tab=files) for better hair textures.
 6. Skin mods: Personally, I use snd greatly prefer [Skysight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/6580) for male, [Mature Skin 2](https://www.nexusmods.com/skyrimspecialedition/mods/26017?tab=description) for female. (Actually I overwrite it with skin textures from [Real Girls CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/75065), but this texture is not compatible with unmodded bodies.) Choose vanilla options.\
    Tempered Skin for [male](https://www.nexusmods.com/skyrimspecialedition/mods/7902) and [female (NSFW)](https://www.nexusmods.com/skyrimspecialedition/mods/8505) characters is also a good choice for wide compatibility. Select Vanilla option.
@@ -28,8 +28,8 @@ I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely
 [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro.\
 Prerequisite is [USSEP Patch 7](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150). Use this version only, do not download newer version of USSEP. [Comment source](https://github.com/tiltedphoques/Mod-Compatibility/issues/7#issuecomment-1185771114))]\
 > [Setup notes](https://github.com/tiltedphoques/Mod-Compatibility/issues/8):
-> Test 1: **Both players choose their starting point. Lead player sleeps in bed. BOTH teleport to designated area.** Preferably guest at an inn in Sleeping Giant (Riverwood) for uniformity. To teleport, type `coc Riverwood` 
-> If that doesn't work, Test 2: Break out of prison together.
+> Test 1: **Both players choose their starting point. Lead player sleeps in bed. BOTH teleport to designated area. Connect to server.** Preferably guest at an inn in Sleeping Giant (Riverwood) for uniformity. To teleport, type `coc Riverwood`.\
+> If that doesn't work, Test 2: Before connecting, both players select "break out of prison." Connetc to server. Break out of prison together.
 
 **The plugin list should now look like:** \
 >Unofficial Skyrim Special Edition Patch.esp\
