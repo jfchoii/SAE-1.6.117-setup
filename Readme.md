@@ -25,8 +25,8 @@ I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely
    Tempered Skin for [male](https://www.nexusmods.com/skyrimspecialedition/mods/7902) and [female (NSFW)](https://www.nexusmods.com/skyrimspecialedition/mods/8505) characters is also a good choice for wide compatibility. Select Vanilla option.
    Supposedly body replacers HIMBO and CBBE work, but that can wait. maybe SoS works too lol.
 6. MOST IMPORTANT TEST BEFORE COMMITTING: 
-[Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro.
-\Prerequisite is [USSEP Patch 7](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150). Use this version only, do not download newer version of USSEP. [Comment source](https://github.com/tiltedphoques/Mod-Compatibility/issues/7#issuecomment-1185771114))]\
+[Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro.\
+Prerequisite is [USSEP Patch 7](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150). Use this version only, do not download newer version of USSEP. [Comment source](https://github.com/tiltedphoques/Mod-Compatibility/issues/7#issuecomment-1185771114))]
 
 > **The plugin list should now look like:** \
 Unofficial Skyrim Special Edition Patch.esp\
@@ -46,8 +46,8 @@ After this works, we can see if we can get other mods in this section running.
 1. [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/17230](https://www.nexusmods.com/skyrimspecialedition/mods/24791?tab=description)) - [Comments](https://github.com/tiltedphoques/Mod-Compatibility/issues/167)
 2. [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/17230](https://www.nexusmods.com/skyrimspecialedition/mods/21954?tab=description) - [Comments](https://github.com/tiltedphoques/Mod-Compatibility/issues/168) - Depends on Cathedral Weathers
 3. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) - Hides HUD :) Apparently no issues?
-4. [The Eyes of Beauty]
-5. Beast Horns Hair Brows: Needs USSEP :( [BEASTHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480) beast race character creation and NPC replacer and additions. [Additional instructions must be followed. (Comments)](https://github.com/tiltedphoques/Mod-Compatibility/issues/26)
+4. [The Eyes of Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/16185) - Maybe can install this, but disable the plugin... 
+5. [Beast Horns Hair Brows](https://www.nexusmods.com/skyrimspecialedition/mods/38480) - Beast race character creation and NPC replacer and additions. Needs USSEP. [Additional instructions must be followed. (Comments)](https://github.com/tiltedphoques/Mod-Compatibility/issues/26)
 
 
 
@@ -65,4 +65,4 @@ As long as there is no plugin, texture and mesh mods might work fine. In the fol
 
 ## Sorry, can't use these
 1. [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) (alternate start mod) can be used to bypass the Helgen intro quest and connect to a server. Leave the realm and enter a city in Skyrim, then press `~` and enter the console command  `completequest mq101` to mark Unbound as finished. Then connect to the server as described by pressing `F2`.
-> **_NOTE:_** [Source](https://github.com/tiltedphoques/Mod-Compatibility/issues/78): Wouldn't recommend players joining until each have fully made their character. Meaning chosen their armor, weapons, standing stone etc. The reasoning is because in my save, when a player would choose a standing stone is would give it to all players. Making choosing a stone individually impossible. The spell that teleports you back to the hub world will teleport all other players as well. Also, I didn't test it, but I wouldn't recommend choosing options that make you apart of certain factions. The mod currently is bugged for female player characters, which are shown to other players with female face but male body.
+> **_NOTE:_** [Source](https://github.com/tiltedphoques/Mod-Compatibility/issues/78): The mod currently is bugged for female player characters, which are shown to other players with female face but male body. Wouldn't recommend players joining until each have fully made their character. Meaning chosen their armor, weapons, standing stone etc. The reasoning is because in my save, when a player would choose a standing stone is would give it to all players. Making choosing a stone individually impossible. The spell that teleports you back to the hub world will teleport all other players as well. Also, I didn't test it, but I wouldn't recommend choosing options that make you apart of certain factions. 
