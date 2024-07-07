@@ -42,7 +42,7 @@ KS Hairdo's.esp\
 iHUD.esp\
 Alternate Start - Live Another Life.esp
 
-## Mods with plugins that might be OK, check that everyone is running the same ones before starting a game
+## Mods with plugins, test
 
 Can download these but don't enable them in MO2.[Mod compatibility report list](https://github.com/tiltedphoques/Mod-Compatibility/issues?page=2&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)\
 After this works, we can see if we can get other mods in this section running.
