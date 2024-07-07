@@ -26,7 +26,7 @@ I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely
    Supposedly body replacers HIMBO and CBBE work, but that can wait. maybe SoS works too lol.
 6. MOST IMPORTANT TEST BEFORE COMMITTING: 
 [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro.\
-Prerequisite is [USSEP Patch 7](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150). Use this version only, do not download newer version of USSEP. [Comment source](https://github.com/tiltedphoques/Mod-Compatibility/issues/7#issuecomment-1185771114))]\
+Prerequisite is [USSEP Patch 266](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150). Use this version only, do not download newer version of USSEP. [Comment source](https://github.com/tiltedphoques/Mod-Compatibility/issues/7#issuecomment-1185771114))]\
 > [Setup notes](https://github.com/tiltedphoques/Mod-Compatibility/issues/8):
 > Create your character and save before talking to the statue of Mara. 
 > Test 1: **Both players choose their starting point. Lead player sleeps in bed. BOTH teleport to designated area. Connect to server.** Preferably guest at an inn in Sleeping Giant (Riverwood) for uniformity. To teleport, type `coc Riverwood`.\
