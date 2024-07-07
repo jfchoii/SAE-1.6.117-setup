@@ -31,8 +31,8 @@ Prerequisite is [USSEP Patch 7](https://www.nexusmods.com/skyrimspecialedition/m
 Test 1: **Both players choose their starting point. Lead player sleeps in bed. BOTH teleport to designated area.** Preferably guest at an inn in Sleeping Giant (Riverwood) for uniformity. To teleport, type `coc Riverwood` \
 If that doesn't work, Test 2: Break out of prison together.\
 
-> **The plugin list should now look like:** \
-Unofficial Skyrim Special Edition Patch.esp\
+**The plugin list should now look like:** \
+>Unofficial Skyrim Special Edition Patch.esp\
 SkyUI_SE.esp\
 RaceMenu.esp\
 RaceMenuPlugin.esp\
