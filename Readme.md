@@ -25,14 +25,7 @@ I am avoiding mods that have a .ESP file (plugin) attached, as it is more likely
    Tempered Skin for [male](https://www.nexusmods.com/skyrimspecialedition/mods/7902) and [female (NSFW)](https://www.nexusmods.com/skyrimspecialedition/mods/8505) characters is also a good choice for wide compatibility. Select Vanilla option.
    Supposedly body replacers HIMBO and CBBE work, but that can wait. maybe SoS works too lol.
 6. [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) (alternate start mod) can be used to bypass the Helgen intro quest and connect to a server. Leave the realm and enter a city in Skyrim, then press `~` and enter the console command  `completequest mq101` to mark Unbound as finished. Then connect to the server as described by pressing `F2`.
-> **_NOTE:_** [Source](https://github.com/tiltedphoques/Mod-Compatibility/issues/78): The mod currently is bugged for female player characters, which are shown to other players with female face but male body. Wouldn't recommend players joining until each have fully made their character. Meaning chosen their armor, weapons, standing stone etc. The reasoning is because in my save, when a player would choose a standing stone is would give it to all players. Making choosing a stone individually impossible. The spell that teleports you back to the hub world will teleport all other players as well. Also, I didn't test it, but I wouldn't recommend choosing options that make you apart of certain factions. 
-%>
-%>  MOST IMPORTANT TEST BEFORE COMMITTING: 
-[Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) Skips super long Helgen intro.\Prerequisite is [USSEP Patch 266](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150). Use this version only, do not download newer version of USSEP. [Comment source](https://github.com/tiltedphoques/Mod-Compatibility/issues/7#issuecomment-1185771114))]\
-%> [Setup notes](https://github.com/tiltedphoques/Mod-Compatibility/issues/8):
-%> Create your character and save before talking to the statue of Mara. 
-%> Test 1: **Both players choose their starting point. Lead player sleeps in bed. BOTH teleport to designated area. Connect to server.** Preferably guest at an inn in Sleeping Giant (Riverwood) for uniformity. To teleport, type `coc Riverwood`.\
-%> If that doesn't work, Test 2: Before connecting, both players select "break out of prison." Connetc to server. Break out of prison together.
+> **_NOTE:_** [Source](https://github.com/tiltedphoques/Mod-Compatibility/issues/78) Wouldn't recommend players joining until each have fully made their character. Meaning chosen their armor, weapons, standing stone etc. The reasoning is because in my save, when a player would choose a standing stone is would give it to all players. Making choosing a stone individually impossible. The spell that teleports you back to the hub world will teleport all other players as well. Also, I didn't test it, but I wouldn't recommend choosing options that make you apart of certain factions. 
 
 **The plugin list should now look like:** \
 >SkyUI_SE.esp\
@@ -45,7 +38,7 @@ Realm of Lorkhan.esp
 
 ## Mods with plugins, test
 
-Can download these but don't enable them in MO2.[Mod compatibility report list](https://github.com/tiltedphoques/Mod-Compatibility/issues?page=2&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)\
+requires testing.[Mod compatibility report list](https://github.com/tiltedphoques/Mod-Compatibility/issues?page=2&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)\
 After this works, we can see if we can get other mods in this section running.
 
 1. [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/17230](https://www.nexusmods.com/skyrimspecialedition/mods/24791?tab=description)) - [Comments](https://github.com/tiltedphoques/Mod-Compatibility/issues/167)
